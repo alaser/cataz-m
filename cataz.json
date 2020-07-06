@@ -1,5 +1,5 @@
 {
-    "name": "Cataz1",
+    "name": "Cataz2",
     "is_dark": false,
     "colors": {
         "accent-color": "#a3be8c",
@@ -10,8 +10,8 @@
         "roomlist-background-color": "#C0CCB8",
         "roomlist-text-color": "#d08770",
         "roomlist-text-secondary-color": "#3b4252",
-        "roomlist-highlights-color": "#eceff4",
-        "roomlist-separator-color": "#eceff4",
+        "roomlist-highlights-color": "#4F4710",
+        "roomlist-separator-color": "#4F4710",
 
         "timeline-background-color": "#C0CCB8",
         "timeline-text-color": "#2e3440",
